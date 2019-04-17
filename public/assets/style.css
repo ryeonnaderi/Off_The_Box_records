@@ -14,3 +14,20 @@
     text-align: center;
     
 }
+.youtube{
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    text-decoration: underline;
+}
+.Instagram{
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    text-decoration: underline;
+}
+hr{
+    display: block;
+    border-width: 6px;
+}
